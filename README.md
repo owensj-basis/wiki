@@ -139,7 +139,6 @@ Support this project by becoming a sponsor. Your name will show up in the Contri
 <img width="441" height="1" />
 
 - Akira Suenami ([@a-suenami](https://github.com/a-suenami))
-- Armin Reiter ([@arminreiter](https://github.com/arminreiter))
 - Arnaud Marchand ([@snuids](https://github.com/snuids))
 - Brian Douglass ([@bhdouglass](https://github.com/bhdouglass))
 - Bryon Vandiver ([@asterick](https://github.com/asterick))
@@ -164,11 +163,11 @@ Support this project by becoming a sponsor. Your name will show up in the Contri
 - MaFarine ([@MaFarine](https://github.com/MaFarine))
 - Marcilio Leite Neto ([@marclneto](https://github.com/marclneto))
 - Mattias Johnson ([@mattiasJohnson](https://github.com/mattiasJohnson))
+- Max Ricketts-Uy ([@MaxRickettsUy](https://github.com/MaxRickettsUy))
         
 </td><td>
 <img width="441" height="1" />
         
-- Max Ricketts-Uy ([@MaxRickettsUy](https://github.com/MaxRickettsUy))
 - Mickael Asseline ([@PAPAMICA](https://github.com/PAPAMICA))
 - Mitchell Rowton ([@mrowton](https://github.com/mrowton))
 - M. Scott Ford ([@mscottford](https://github.com/mscottford))
@@ -357,7 +356,6 @@ Thank you to all our patrons! 🙏 [[Become a patron](https://www.patreon.com/re
 - Alex Balabanov
 - Alex Zen
 - Arti Zirk
-- Ave
 - Brandon Curtis
 - Dave 'Sri' Seah
 - djagoo
