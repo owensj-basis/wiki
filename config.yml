@@ -57,8 +57,8 @@ db:
 # Consider using a reverse proxy (e.g. nginx) if you require more
 # advanced options than those provided below.
 
-# ssl:
-#   enabled: false
+ssl:
+  enabled: false
 #   port: 3443
 
 #   # Provider to use, possible values: custom, letsencrypt
